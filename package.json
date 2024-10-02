@@ -1,7 +1,18 @@
 {
   "dependencies": {
     "-": "^0.0.1",
+    "@typescript-eslint/eslint-plugin": "^8.8.0",
     "D": "^1.0.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-jest": "^28.8.3",
     "husky": "^9.1.6"
+  },
+  "devDependencies": {
+    "add": "^2.0.6",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-unicorn": "^49.0.0",
+    "prettier": "^3.3.3",
+    "yarn": "^1.22.22"
   }
 }
